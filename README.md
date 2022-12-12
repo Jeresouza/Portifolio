@@ -1,0 +1,1 @@
+Meu primeiro projeto sendo ele meu proprio portifolio, tenho planos para melhorar ele enventualmente assim que adquirir mais conheciendo.
