@@ -1,10 +1,16 @@
 #projetos {
-  width: 100%;
   background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  margin:20px;
 }
 
+
 .projetos {
-    padding-top: 93px;
+ padding-top: 93px;
 }
 
 .projetos h2{
@@ -15,20 +21,6 @@
 .projetos h2 {
     padding-bottom: 70px;
 }
-
-/* button {
-    padding: 10px 100px;
-    border-radius: 25px;
-    cursor: pointer;
-    color: rgb(0, 0, 0);
-    background-color: #b9b8b8;
-    border: none;
-    transition: ease-in-out 0.3s;
-}
-
-button:hover {
-    background-color: #ffffff;
-} */
 
 .github-link {
     margin: 0 auto;
