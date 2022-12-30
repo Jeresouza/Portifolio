@@ -6,6 +6,10 @@
   text-decoration: none;
 }
 
+.logotipo {
+  width: 20%;
+}
+
 ul {
   list-style: none;
   padding: 0;

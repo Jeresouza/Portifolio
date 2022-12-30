@@ -67,7 +67,11 @@ body {
   padding: 20px 20px 20px 20px;
 }
 
-@media (max-width:970px) {
+.man13 {
+  width: 45em;
+}
+
+@media (max-width:1400px) {
   .conteudoPrincipal-1{
     display: flex;
     flex-direction: column;
@@ -76,9 +80,13 @@ body {
 
   .conteudoPrincipal-imagen {
     display: none;
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     opacity: 0;
+  }
+
+  .man13{
+    display: none;
   }
 
   .conteudoPrincipal {
@@ -88,7 +96,7 @@ body {
   }
 
 }
-@media (min-width:1080px) {
+@media (min-width:1920px) {
    .conteudoPrincipal-1{
      display: flex;
     text-align: center;
